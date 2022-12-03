@@ -6,4 +6,4 @@
 - What are the products that are most often sold together?
 - Most sold product and why?
 
-### and this tutorial also covers data augementations, data plotting and some advanced methods.
+### and this tutorial also covers data augementation, data plotting and some advanced methods.
